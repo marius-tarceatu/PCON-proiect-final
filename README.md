@@ -1,7 +1,7 @@
 # One_Button_Looper
 It is a M4L device that controls Ableton Live and launches clips that you can loop.
 
-## You need to drag the .amxd file to your Ableton Live. After you have it there, for example in personal files, you must load it up on the main channel(master).
+## You need to drag the Proiect_Looper _v2.amxd file to your Ableton Live. After you have it there, for example in personal files, you must load it up on the main channel(master).
 ...
 
 ## Best use case is to midi map it to a button from a midi controller, or a note on the keyboard that you do not use.
